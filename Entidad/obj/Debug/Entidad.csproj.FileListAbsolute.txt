@@ -1,0 +1,5 @@
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\Entidad\bin\Debug\Entidad.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\Entidad\obj\Debug\Entidad.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\Entidad\obj\Debug\Entidad.pdb

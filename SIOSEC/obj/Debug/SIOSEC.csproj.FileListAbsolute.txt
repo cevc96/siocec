@@ -1,0 +1,182 @@
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\SIOSEC.dll.config
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\SIOSEC.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\SIOSEC.pdb
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Antlr3.Runtime.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Control.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Dao.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Entidad.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\EntityFramework.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\EntityFramework.SqlServer.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Newtonsoft.Json.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Owin.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Net.Http.Formatting.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Helpers.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Http.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Http.Owin.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Http.WebHost.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Mvc.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Optimization.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Razor.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.WebPages.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\WebGrease.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Control.pdb
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Dao.pdb
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Entidad.pdb
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Antlr3.Runtime.pdb
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\EntityFramework.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\EntityFramework.SqlServer.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\Newtonsoft.Json.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Net.Http.Formatting.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Helpers.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Http.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Http.Owin.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Http.WebHost.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Mvc.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Optimization.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.Razor.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.WebPages.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\EntityFramework.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\System.Web.Http.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\obj\Debug\SIOSEC.csprojResolveAssemblyReference.cache
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\obj\Debug\SIOSEC.dll
+C:\Users\Edgar-PC\Desktop\2017 - 1\TP GUISBERT\SIOSEC\SIOSEC\obj\Debug\SIOSEC.pdb
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\SIOSEC.dll.config
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\SIOSEC.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\SIOSEC.pdb
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Antlr3.Runtime.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Control.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Dao.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Entidad.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\EntityFramework.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\EntityFramework.SqlServer.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Newtonsoft.Json.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Owin.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Net.Http.Formatting.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Helpers.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Http.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Http.Owin.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Http.WebHost.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Mvc.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Optimization.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Razor.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.WebPages.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\WebGrease.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Control.pdb
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Dao.pdb
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Entidad.pdb
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Antlr3.Runtime.pdb
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\EntityFramework.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\EntityFramework.SqlServer.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\Newtonsoft.Json.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Net.Http.Formatting.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Helpers.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Http.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Http.Owin.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Http.WebHost.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Mvc.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Optimization.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.Razor.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.WebPages.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\EntityFramework.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\System.Web.Http.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\obj\Debug\SIOSEC.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\obj\Debug\SIOSEC.dll
+C:\Users\Cesar\Desktop\SIOSEC\SIOSEC\obj\Debug\SIOSEC.pdb
